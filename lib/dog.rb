@@ -1,15 +1,15 @@
-class dog  
+class Dog  
   
 end
 
-fido = dog.new 
-snoopy = dog.new 
-lassie = dog.new 
+fido = Dog.new 
+snoopy = Dog.new 
+lassie = Dog.new 
 
 
-class person
+class Person
   
 end
 
-adele_goldberg = person.new 
-alan_key = person.new 
+adele_goldberg = Person.new 
+alan_key = Person.new 
